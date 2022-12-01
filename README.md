@@ -4,7 +4,7 @@ A complete project to automate API testing using the Pytest framework
 
 Title: Creating, editing and deleting a new location. Checking the code status, checking the presence of required fields, checking the contents of the fields, connecting the Allure report.
 
-1) Project structures. Creating custom methods for requests.
+1) Project structures. Creating custom methods for requests POST, GET, PUT, DELETE.
 
 2) Creation of tests for our project. Creating, editing and deleting a new location.
   Post Method, Get Method, Put Method, Delete Method
@@ -26,7 +26,7 @@ Title: Creating, editing and deleting a new location. Checking the code status, 
 
 Название:  Создание, редактирование и удаление новой локации. Проверка статуса кода, проверка наличия обязательных полей, проверка содержимого полей, подключение отчета Allure.
 
-1) Cтруктуры проекта. Создание кастомных методов для запросов.
+1) Cтруктуры проекта. Создание кастомных методов для запросов POST, GET, PUT, DELETE.
 
 2) Создание тестов к нашему проекту. Создание, редактирование и удаление новой локации.
   Метод Post, Метод Get, Метод Put, Метод Delete
